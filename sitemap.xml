@@ -62,9 +62,11 @@
  <url>
   <loc>https://carlosruizp.github.io/posts/introduction/</loc>
   <lastmod>2020-06-29T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://carlosruizp.github.io/es/posts/introduction/" />
  </url>
  <url>
   <loc>https://carlosruizp.github.io/posts/what-is-probability/</loc>
   <lastmod>2020-06-26T07:33:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="es" href="https://carlosruizp.github.io/es/posts/what-is-probability/" />
  </url>
 </urlset>
